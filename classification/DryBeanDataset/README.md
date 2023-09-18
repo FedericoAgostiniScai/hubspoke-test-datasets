@@ -4,7 +4,7 @@
 
 ## Statistic
 
-- features:
+- all features are numeric:
 
 |                 |         min |        max |
 | :-------------- | ----------: | ---------: |
